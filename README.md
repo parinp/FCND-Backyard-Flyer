@@ -48,4 +48,6 @@ This function is used in order to disarm the quadrotor.  When the local position
                     self.disarming_transition() 
 ```
 
+### License
 
+This project is licensed under the [MIT License](LICENSE)
